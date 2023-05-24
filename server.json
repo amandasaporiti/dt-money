@@ -1,0 +1,100 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Aluguel",
+      "price": 1350,
+      "category": "Custos",
+      "type": "outcome",
+      "createdAt": "2023-02-03T21:56:19.228Z"
+    },
+    {
+      "id": 2,
+      "description": "Desenvolvimento de site",
+      "price": 10500,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2023-01-16T12:23:15.228Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "price": 1980,
+      "category": "Educação",
+      "type": "outcome",
+      "createdAt": "2023-01-16T12:23:15.228Z"
+    },
+    {
+      "id": 4,
+      "description": "Curso Clean Code",
+      "price": 499.9,
+      "category": "Educação",
+      "type": "outcome",
+      "createdAt": "2023-01-16T12:23:15.228Z"
+    },
+    {
+      "id": 5,
+      "description": "Formatação de computador",
+      "price": 90,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2023-01-16T12:23:15.228Z"
+    },
+    {
+      "id": 6,
+      "description": "Supermercado",
+      "price": 886.47,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-01-16T12:23:15.228Z"
+    },
+    {
+      "id": 7,
+      "description": "Mouse",
+      "price": 159.9,
+      "category": "Trabalho",
+      "type": "outcome",
+      "createdAt": "2023-01-16T12:23:15.228Z"
+    },
+    {
+      "description": "Ração ",
+      "category": "Pet",
+      "price": 239,
+      "type": "outcome",
+      "createdAt": "2023-02-04T23:35:26.673Z",
+      "id": 8
+    },
+    {
+      "description": "Pizza",
+      "category": "Alimentação",
+      "price": 73,
+      "type": "outcome",
+      "createdAt": "2023-02-04T23:38:36.425Z",
+      "id": 9
+    },
+    {
+      "description": "Criação de design system",
+      "category": "Trabalho",
+      "price": 890.99,
+      "type": "income",
+      "createdAt": "2023-02-04T23:46:33.041Z",
+      "id": 10
+    },
+    {
+      "description": "Farmácia",
+      "category": "Saúde",
+      "price": 117.56,
+      "type": "outcome",
+      "createdAt": "2023-02-04T23:53:12.165Z",
+      "id": 11
+    },
+    {
+      "description": "Monitor",
+      "category": "Trabalho",
+      "price": 788.9,
+      "type": "outcome",
+      "createdAt": "2023-05-24T18:18:13.291Z",
+      "id": 12
+    }
+  ]
+}
