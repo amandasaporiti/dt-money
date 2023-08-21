@@ -95,6 +95,14 @@
       "type": "outcome",
       "createdAt": "2023-05-24T18:18:13.291Z",
       "id": 12
+    },
+    {
+      "description": "Desenvolvimento de e-commerce",
+      "category": "Trabalho",
+      "price": 2900,
+      "type": "income",
+      "createdAt": "2023-08-21T19:45:53.677Z",
+      "id": 13
     }
   ]
 }
