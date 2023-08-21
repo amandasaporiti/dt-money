@@ -1,4 +1,4 @@
-import styled from "styled-components"
+import styled from 'styled-components'
 
 export const HeaderContainer = styled.header`
   background: var(--gray-900);
@@ -25,7 +25,7 @@ export const NewTransactionButton = styled.button`
   text-align: center;
   border: 0;
 
-  :hover {
+  &:hover {
     background: var(--green-300);
     transition: background-color 0.2s;
   }

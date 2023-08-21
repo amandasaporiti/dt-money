@@ -1,4 +1,4 @@
-import styled from "styled-components"
+import styled from 'styled-components'
 
 export const TransactionsContainer = styled.main``
 
@@ -18,12 +18,12 @@ export const TransactionsTable = styled.table`
     padding: 1.25rem 2rem;
     background: var(--gray-700);
 
-    :first-child {
+    &:first-child {
       border-top-left-radius: 6px;
       border-bottom-left-radius: 6px;
     }
 
-    :last-child {
+    &:last-child {
       border-top-right-radius: 6px;
       border-bottom-right-radius: 6px;
     }
@@ -31,10 +31,10 @@ export const TransactionsTable = styled.table`
 `
 
 interface PriceHighlightProps {
-  variant: "income" | "outcome"
+  variant: 'income' | 'outcome'
 }
 
 export const PriceHighlight = styled.p<PriceHighlightProps>`
   color: ${(props) =>
-    props.variant === "income" ? "var(--green-300)" : "var(--red-300)"};
+    props.variant === 'income' ? 'var(--green-300)' : 'var(--red-300)'};
 `

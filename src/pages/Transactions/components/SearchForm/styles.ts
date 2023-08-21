@@ -1,4 +1,4 @@
-import styled from "styled-components"
+import styled from 'styled-components'
 
 export const SearchFormContainer = styled.form`
   display: flex;
@@ -17,7 +17,7 @@ export const SearchFormContainer = styled.form`
     border: 0;
     border-radius: 6px;
 
-    ::placeholder {
+    &::placeholder {
       font-weight: 400;
       font-size: 1rem;
       line-height: 140%;
@@ -38,7 +38,7 @@ export const SearchFormContainer = styled.form`
     color: var(--green-300);
     transition: background-color 0.2s, color 0.2s, border 0.2s;
 
-    :hover {
+    &:hover {
       background: var(--green-300);
       color: var(--white);
     }
