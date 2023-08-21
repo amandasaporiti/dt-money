@@ -11,8 +11,7 @@
 <p align="center">
   <a href="#house-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#runner-rodando-o-projeto">Rodando o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="#computer-deploy">Deploy</a>
+  <a href="#runner-rodando-o-projeto">Rodando o projeto</a>
 </p>
 
 <br>
@@ -25,7 +24,7 @@
 
 O DT Money é uma aplicação baseada em um controle de finanças mostrando o histórico das transações cadastradas, também conta com um resumo do valor total somado de entradas e saídas e utiliza de uma Fake API para salvar os dados no servidor.
 
-- Modal para cadastro de nova transação
+- Modal para cadastro de nova transação focando em acessibilidade
 - Listagem de transações realizadas
 - Cálculo das entradas, saídas e total
 - Filtro de busca
@@ -48,7 +47,6 @@ O DT Money é uma aplicação baseada em um controle de finanças mostrando o hi
 - [Json Server](https://github.com/typicode/json-server)
 - [Phosphor Icons](https://phosphoricons.com/)
 - [Date-fns](https://date-fns.org/)
-- [Netlify](https://www.netlify.com/)
 
 <br>
 
@@ -82,10 +80,6 @@ Execute os seguintes comandos para começar a aplicação em um ambiente de dese
 `$ yarn dev`
 
 <br>
-
-# :computer: Deploy
-
-[We are ONLINE, try Now](https://dt-money-financas.netlify.app/) :tada:<br>
 
 <br>
 
